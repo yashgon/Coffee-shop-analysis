@@ -19,13 +19,13 @@ Power Pivot
 Dashboards
 
 Data cleaning Steps :-
-Understand The Datasets
-Trim Some Empty Spaces
-Handle Not Defined Values
-Add Column Based on Date Column
-Add Column Based On Time 
-Remove Duplicate or Handle Duplicate Records
-Give The Correct Data Types
+-Understand The Datasets.
+-Trim Some Empty Spaces.
+-Handle Not Defined Values.
+-Add Column Based on Date Column.
+-Add Column Based On Time.
+-Remove Duplicate or Handle Duplicate   Records.
+-Give The Correct Data Types.
 
 Analysis Performed :-
 - Daily Sales Analysis
